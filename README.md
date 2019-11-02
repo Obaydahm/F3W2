@@ -58,3 +58,5 @@
     
 4. **Thursday**
   - [Link to solution](https://github.com/Obaydahm/F3W2/tree/master/04thursday)
+  
+*I haven't been able to complete the entire week's assignments, because I have been very busy this week. I will pick up the rest next weekend.*
