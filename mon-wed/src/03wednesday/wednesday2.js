@@ -33,32 +33,6 @@ f)  Finally, add a button below the form to submit the code.
 
     Important: Don’t touch anything else in the code except the new click-handler for the button. 
     Remember, your state is the single source of truth, so you always have what you need to submit.
-
-Answer the following questions before you continue (questions we will ask during the examination)
-
-In a Controlled Component React state is made the "Single source of truth", so how:
-  Do we ensure that input controls like text, textarea or select always presents the value found in the components state?
-    answer: 
-
-  Do we ensure that a controls state, always matches the value found in an input control?
-    answer: 
-
-What is the purpose of doing event.preventDefault() in an event handler?
-  answer:   By default, when a submit button is pressed the data gets sent to the server,
-            and by using preventDefault() we disable that.
-  
-  
-What would be the effect of NOT doing event.preventDefault in a submit handler
-  answer:   A request containing the input data would have been made to the server.
-
-Why don't we want to submit the traditional way, in a single page application?
-  answer:
-
-Explain in words what it takes to implement the "Controlled Component" pattern for a form
-  answer:
-
-
-
 */
 
 function ReservationForm() {
